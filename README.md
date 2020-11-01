@@ -1,30 +1,12 @@
 # petstore
 
-> Petstore application for book
+> vue.js项目实战案例
 
-## Build Setup
+# 使用方法
 
-``` bash
-# install dependencies
-npm install
+1.cd petstore 到petstore路径下
 
-# serve with hot reload at localhost:8080
-npm run dev
+2.npm install 安装依赖库
 
-# build for production with minification
-npm run build
+3.npm run dev 启动服务
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
